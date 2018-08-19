@@ -1,0 +1,4 @@
+<!-- Event snippet for お問い合わせ conversion page -->
+<script>
+  gtag('event', 'conversion', {'send_to': 'AW-796367629/NsypCMWbqocBEI223vsC'});
+</script>
