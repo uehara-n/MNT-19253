@@ -79,6 +79,14 @@ $(function(){
   gtag('config', 'AW-796367629');
 </script>
 
+<?php if(is_page('comp')): ?>
+<!-- Event snippet for お問い合わせ conversion page -->
+<script>
+  gtag('event', 'conversion', {'send_to': 'AW-796367629/NsypCMWbqocBEI223vsC'});
+</script>
+<?php endif; ?>
+
+
 </head>
 
 <body id="top">
